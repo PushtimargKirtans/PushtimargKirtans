@@ -1,4 +1,4 @@
-# **Pushtimarg Kirtans Privacy Policy**
+# **Pushtimarg Satsang Privacy Policy**
 
 Kalpesh Sonecha built the Pushtimarg Kirtans app as a Free app. This SERVICE is provided by Kalpesh Sonecha at no cost and is intended for use as is.
 
