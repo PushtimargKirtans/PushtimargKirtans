@@ -1,4 +1,4 @@
-# Pushtimarg-Satsang
+# Pushtimarg Satsang
 The Pushtimarg Satsang app is a compact Kirtan book in Gujarati and English. I shall be adding more Kirtans and Paths in future updates. If you would like to add Kirtans please email me your Kirtan/s in Gujarati as well as in English kalpesh.sonecha@gmail.com
 
 
