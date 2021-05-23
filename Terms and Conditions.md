@@ -27,4 +27,5 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 These terms and conditions are effective as of 2021-04-18
 
 Contact Us
+
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at kalpesh.sonecha@gmail.com.
