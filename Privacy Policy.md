@@ -1,12 +1,12 @@
 # **Pushtimarg Satsang Privacy Policy**
 
-Kalpesh Sonecha built the Pushtimarg Kirtans app as a Free app. This SERVICE is provided by Kalpesh Sonecha at no cost and is intended for use as is.
+Kalpesh Sonecha built the Pushtimarg Satsang app as a Free app. This SERVICE is provided by Kalpesh Sonecha at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://github.com/PushtimargKirtans/PushtimargKirtans/blob/8981c2e97767f498e0b4547b3bf9f150e59bec72/Terms%20and%20Conditions.md), which is accessible at Pushtimarg Kirtans unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://github.com/PushtimargKirtans/PushtimargKirtans/blob/8981c2e97767f498e0b4547b3bf9f150e59bec72/Terms%20and%20Conditions.md), which is accessible at Pushtimarg Satsang unless otherwise defined in this Privacy Policy.
 
 ### **Information Collection and Use**
 
